@@ -2,7 +2,7 @@
 
 Overview gathered mainly from Wikipedia and Interweb with sources
 
-![Overview](./overview.png)
+[![Overview](./overview.png)](./overview.svg)
 
 ## Contribute
 
