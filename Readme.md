@@ -2,6 +2,8 @@
 
 Overview gathered mainly from Wikipedia and Interweb with sources
 
+![Overview](./overview.png)
+
 ## Contribute
 
 Create an issue if you see mistakes or have additional information.
