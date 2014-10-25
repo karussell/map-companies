@@ -1,6 +1,14 @@
-# Map Service Providers
+# The Map Companies Map
 
-Overview gathered mainly from Wikipedia and Interweb with sources
+Overview gathered mainly from Wikipedia and Interweb
+
+Included if the company
+
+ * collects map data OR
+ * provides known Online Maps OR
+ * provides map services such as online/offline routing, geocoding or map tiles
+
+(these requirements are subject to change)
 
 [![Overview](./overview.png)](./overview.svg)
 
